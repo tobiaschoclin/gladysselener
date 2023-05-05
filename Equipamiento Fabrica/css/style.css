@@ -1,0 +1,58 @@
+h1 {
+  background-color: black;
+  color: orange;
+  padding: 20px;
+  font-size: 60px;
+}
+
+#color_fondo {
+  background-color: #ffda9e;
+}
+
+.titulo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.seccion {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imagen {
+  height: 400px;
+  width: auto;
+  margin-top: 50px;
+}
+
+.texto {
+  width: 533px;
+  text-align: center;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  background-color: orange;
+}
+
+.texto_abajo {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  text-align: center;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+  color: black;
+  background-color: orange;
+  padding: 20px;
+}
+
+.texto_abajo:hover {
+  color: orange;
+  font-size: 60px;
+  background-color: black;
+}
+
+/*# sourceMappingURL=style.css.map */
